@@ -31,7 +31,7 @@ This project is a decentralized marketplace built on the **Ethereum blockchain**
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/THEBHARAT08/Digital-Asset-Management-by-using-Blockchain-.git
+https://github.com/SidJadhav-7/-Digital-Asset-Management-using-Blockchain.git
 cd Digital-Asset-Management-by-using-Blockchain-
 ```
 
